@@ -81,6 +81,7 @@ const teams = {
 		'LincolnFleet',
 		'rhdeck',
 		'kldickenson',
+		'derekjj',
 	],
 
 	'VC Host': ['meg-gutshall', 'nickytonline', 'SuzeShardlow', 'saramccombs'],
